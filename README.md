@@ -1,3 +1,5 @@
+<img width="1024" height="543" alt="imagen" src="https://github.com/user-attachments/assets/0a1fa90c-29e1-4a07-be43-dcf7eb21bd84" />
+
 # bit about me:
 engineering student finally deciding to upload <br>their projects instead of keeping them on (C:)
 
