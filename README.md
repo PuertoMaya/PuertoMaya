@@ -1,7 +1,11 @@
-<img width="1024" height="543" alt="imagen" src="https://github.com/user-attachments/assets/0a1fa90c-29e1-4a07-be43-dcf7eb21bd84" />
+<img width="1024" height="272" alt="imagen" src="https://github.com/user-attachments/assets/0a1fa90c-29e1-4a07-be43-dcf7eb21bd84" />
 
 # bit about me:
-engineering student finally deciding to upload <br>their projects instead of keeping them on (C:)
+engineering student finally deciding to upload their projects instead of keeping them on (C:)
+
+passionate about OSINT and other areas of cybersecurity such as systems security, CTI and risk management.
+
+working on several different tools on this areas so check my repos :)
 
 
 #  My Stack:
