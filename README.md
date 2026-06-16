@@ -5,7 +5,7 @@ engineering student finally deciding to upload their projects instead of keeping
 
 passionate about OSINT and other areas of cybersecurity such as systems security, CTI and risk management.
 
-working on several different tools on this areas so check my repos :)
+working on several different tools on these areas so check my repos :)
 
 
 #  My Stack:
